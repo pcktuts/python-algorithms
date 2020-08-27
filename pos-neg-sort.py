@@ -26,3 +26,14 @@ def pos_neg_sort(mylist):
 
 mylist = [8, 1, -4, -6, 9, 3, -9]
 pos_neg_sort(mylist)
+
+
+# Sample output as executed in Mac
+
+'''
+python3 pos-neg-sort.py
+original list 
+[8, 1, -4, -6, 9, 3, -9]
+positive num sorted list
+[1, 3, -4, -6, 8, 9, -9]
+'''
